@@ -1,0 +1,6 @@
+tests
+
+frontend/node_modules
+backend/test/camera1_og.mp4
+backend/test/camera2_og.mp4
+backend/test/camera3_og.mp4
